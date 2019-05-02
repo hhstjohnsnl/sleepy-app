@@ -1,12 +1,6 @@
 import React, { Component } from 'react'
 import './Form.css'
 
-const mockResponse = () => {
-  return (
-    `<div>Hello</div>`
-  )
-}
-
 class DynamicForm extends Component {
   state = {
     result: ''
@@ -52,7 +46,7 @@ class DynamicForm extends Component {
             className="Input"
           />
           <div className="Question">
-            I want to wake up at 
+            I want to wake up at
           </div>
           <select name="wakingUpTime" id="wakingUpTimeDynamic" className="Submit" >
             <option value="05:00 AM">05:00 AM</option>

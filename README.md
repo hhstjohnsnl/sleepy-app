@@ -1,3 +1,78 @@
+# 😴 sleepy-app
+
+## Create a Github account
+
+Go to [https://github.com/](https://github.com/) and sign up for a free account.
+
+## Join the Gitter community
+
+Go to [https://gitter.im/](https://gitter.im/) and click:
+
+### `SIGN IN TO START TALKING`
+
+and
+
+### `SIGN IN WITH GITHUB`
+
+Enter your Github username and password.
+
+## Find our Gitter room
+
+Search for `sleepy-app`.
+
+Or just go to [https://gitter.im/HHStJohnsNL/sleepy-app](https://gitter.im/HHStJohnsNL/sleepy-app)
+
+## Fork your own repo
+
+Go to [https://github.com/hhstjohnsnl/sleepy-app](https://github.com/hhstjohnsnl/sleepy-app) and click:
+
+### `Fork`
+
+## Sign up with gitpod
+
+Go to [https://gitpod.io](https://gitpod.io). Click:
+
+### `Go to app`
+
+Enter your Github username and password.
+
+## Connect your github sleepy-app repo to gitpod
+
+Make note of your sleepy-app repo url. It should be something like:
+
+### `https://github.com/{your_github_username}/sleepy-app`
+
+Where {your_github_username} is your github username. Mine is `jthetzel`.
+
+Enter the following url in your browser to connect gitpod:
+
+### `https://gitpod.io#https://github.com/{your_github_username}/sleepy-app`
+
+## Wait a few minutes!
+
+The first time gitpod connects to your github repo, it spins up a bunch resources in the cloud.
+Once it's done, you can view your gitpod workspaces here:
+
+### `https://gitpod.io/workspaces/`
+
+## Install your dependencies
+
+In your gitpod terminal, just run:
+
+### `yarn install`
+
+## Run your app
+
+in your gitpod terminal, run:
+
+###: `yarn start`
+
+Then click:
+
+###: `Open preview`
+
+# React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

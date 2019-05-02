@@ -65,11 +65,11 @@ In your gitpod terminal, just run:
 
 in your gitpod terminal, run:
 
-###: `yarn start`
+### `yarn start`
 
 Then click:
 
-###: `Open preview`
+### `Open preview`
 
 # React
 

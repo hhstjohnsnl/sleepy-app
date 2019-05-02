@@ -71,9 +71,66 @@ Then click:
 
 ### `Open preview`
 
-# React
+## Connect your github repo to Netlify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Go to [https://www.netlify.com/](https://www.netlify.com/) and click:
+
+### `Sign up`
+
+Followed by:
+
+### `GitHub`
+
+Enter your Github username and password.
+
+Once you are logged in, click:
+
+### `New site from Git`
+
+Followed by:
+
+### `GitHub`
+
+And authorize your GitHub account.
+
+Select your repo, `sleepy-app`.
+
+For `build command` enter:
+
+### `yarn build`
+
+And for your `publish directory`, enter:
+
+### `build/`
+
+And finally, click:
+
+### `Deploy site`
+
+In a few minutes, your app should be on the internet for anyone to visit!
+For example, my fork of the sleepy-app repo is available at:
+[https://reverent-curie-6d9ca1.netlify.com](https://reverent-curie-6d9ca1.netlify.com)
+
+
+🚀🚀🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Advanced: React
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). React and Create React App are beyond the scope of today's session. However, if you want to learn more, the following is a deep dive into the world of web app development in 2019.
 
 ## Available Scripts
 

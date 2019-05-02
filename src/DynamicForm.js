@@ -37,12 +37,12 @@ class DynamicForm extends Component {
             className="Input"
           />
           <div className="Question">
-            Time it takes me to fall asleep (minutes)
+            Time it takes me to become sleepy sleepy (minutes)
           </div>
           <input
             name="fallingAsleepTime"
             id="fallingAsleepTimeDynamic"
-            placeholder="minutes"
+            placeholder="MINUTES!"
             className="Input"
           />
           <div className="Question">
@@ -59,6 +59,7 @@ class DynamicForm extends Component {
             <option value="08:30 AM">08:30 AM</option>
             <option value="09:00 AM">09:00 AM</option>
             <option value="09:30 AM">09:30 AM</option>
+            <option value="12:00 PM">12:00 PM</option>
           </select>
           <br />
           <input type="submit" id="submit" className="Submit" />

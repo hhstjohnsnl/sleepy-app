@@ -11,8 +11,7 @@ class App extends Component {
       <div className="App">
         <Header />
         {/* <Form /> */}
-        <DynamicForm />
-        {/* <StatefulForm /> */}
+        <StatefulForm />
       </div>
     );
   }
